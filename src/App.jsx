@@ -14,6 +14,7 @@ console.log(text,results)
 
   return (
     <div className="App">
+      <h1>Welcome to search engine</h1>
       <input
         placeholder="Enter search text"
         value={text}
